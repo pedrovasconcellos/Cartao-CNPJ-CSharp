@@ -1,0 +1,12 @@
+C:\Users\pedro\Documents\Visual Studio 2015\Projects\CartaoCNPJ\CartaoCNPJ\bin\Release\CartaoCNPJ.exe.config
+C:\Users\pedro\Documents\Visual Studio 2015\Projects\CartaoCNPJ\CartaoCNPJ\bin\Release\CartaoCNPJ.exe
+C:\Users\pedro\Documents\Visual Studio 2015\Projects\CartaoCNPJ\CartaoCNPJ\bin\Release\CartaoCNPJ.pdb
+C:\Users\pedro\Documents\Visual Studio 2015\Projects\CartaoCNPJ\CartaoCNPJ\obj\Release\CartaoCNPJ.U_CARTAOCNPJ.resources
+C:\Users\pedro\Documents\Visual Studio 2015\Projects\CartaoCNPJ\CartaoCNPJ\obj\Release\CartaoCNPJ.Properties.Resources.resources
+C:\Users\pedro\Documents\Visual Studio 2015\Projects\CartaoCNPJ\CartaoCNPJ\obj\Release\CartaoCNPJ.csproj.GenerateResource.Cache
+C:\Users\pedro\Documents\Visual Studio 2015\Projects\CartaoCNPJ\CartaoCNPJ\obj\Release\CartaoCNPJ.exe
+C:\Users\pedro\Documents\Visual Studio 2015\Projects\CartaoCNPJ\CartaoCNPJ\obj\Release\CartaoCNPJ.pdb
+C:\Users\pedro\Documents\Visual Studio 2015\Projects\CartaoCNPJ\CartaoCNPJ\bin\Release\CartaoCNPJ.exe.manifest
+C:\Users\pedro\Documents\Visual Studio 2015\Projects\CartaoCNPJ\CartaoCNPJ\bin\Release\CartaoCNPJ.application
+C:\Users\pedro\Documents\Visual Studio 2015\Projects\CartaoCNPJ\CartaoCNPJ\obj\Release\CartaoCNPJ.exe.manifest
+C:\Users\pedro\Documents\Visual Studio 2015\Projects\CartaoCNPJ\CartaoCNPJ\obj\Release\CartaoCNPJ.application

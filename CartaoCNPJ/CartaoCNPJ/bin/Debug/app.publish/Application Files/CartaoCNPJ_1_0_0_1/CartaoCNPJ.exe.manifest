@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="CartaoCNPJ.exe" version="1.0.0.1" publicKeyToken="ad5b052180590771" language="neutral" processorArchitecture="msil" type="win32" />
+  <description asmv2:iconFile="Icone\vasconcellossolutions.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="CartaoCNPJ" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="CartaoCNPJ.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the 
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward 
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="CartaoCNPJ.exe" size="282592">
+      <assemblyIdentity name="CartaoCNPJ" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>zi2PDmYyeoy5aO36bokGn6UUlcqwuTMwIGgtZNbpBS4=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="CartaoCNPJ.exe.config" size="189">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>6N7MliNbVJSIAIPrecIshMbZ7zEoKLr5SQvud4LDUOw=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Icone\icone.ico" size="272854">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>tnR+bU9g83PQ6CdtOtl8wT3qob01HGERwG+uk6ZtFIU=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Icone\vasconcellossolutions.ico" size="99678">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>WnxE0WawFGDoJ2xUYxUr23gwSeQbt/XWCO8oLcClANw=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=DESKTOP-I0CGF85\pedro" issuerKeyHash="74d74b6124ace5331e9c21890462333310983e33" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>vOusDQT0XZL4FmbOweuC9m6OSd2qiYwZp3nB4U0wlm4=</DigestValue></Reference></SignedInfo><SignatureValue>M37X4p01BULSMYA+CeRiKRH04vYQglAyQ1o+gml+7ZiyfOqSbQtYjM4wbpvsWFLVerDBWlpql2DEUoFfYpayAgLCgmZ62W41KmZhkLqmfdvMh9GobmyyRRfnv1Wo73H+eY3PaU0KTHVwyAWpzIvEKxejHnBdLF+DrgaAr02srMc=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>5XSNK7fIHbxgAKlP1z44h9kC/qY4BmnRHTNnTBgWASOpurt3e4cQI63wwupDfvANjObDt042L1YZkKlR67CxJBQfae4Ob69vbwrAaRx+DBCxuXcTEtMCQ9db1vMpG3zrVvlqGt0pyYOvYU7RO/QC0xKP0Dl0naAkFPb9FmLKpe0=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="6e96304de1c179a7198c89aadd498e6ef682ebc1ce6616f8925df4040dacebbc" Description="" Url=""><as:assemblyIdentity name="CartaoCNPJ.exe" version="1.0.0.1" publicKeyToken="ad5b052180590771" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=DESKTOP-I0CGF85\pedro</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>PW9LU+RBKMSfyOP0fzj8fkgc7lNAokI0JZMN01MGahE=</DigestValue></Reference></SignedInfo><SignatureValue>CmDKINRYab/Xxp/xDToWVf7JOMwIgku6AT1TZaqe9TtKybrqp1JJQtI/8Y2LvaZhEcsQlAjm0bX0kXBoilQGj1U7jFjUzI8nMVYSHowYSaB0piHRGwnfylP/BYC0KLcd69o1+5krOl2X8pj3S5jjYo0g8DMCAkt9wfGHOyCH508=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>5XSNK7fIHbxgAKlP1z44h9kC/qY4BmnRHTNnTBgWASOpurt3e4cQI63wwupDfvANjObDt042L1YZkKlR67CxJBQfae4Ob69vbwrAaRx+DBCxuXcTEtMCQ9db1vMpG3zrVvlqGt0pyYOvYU7RO/QC0xKP0Dl0naAkFPb9FmLKpe0=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB7TCCAVagAwIBAgIQRORw3/k/r4hEXVZxVOGPwDANBgkqhkiG9w0BAQsFADA1MTMwMQYDVQQDHioARABFAFMASwBUAE8AUAAtAEkAMABDAEcARgA4ADUAXABwAGUAZAByAG8wHhcNMTcwNzAzMDI1MDEzWhcNMTgwNzAzMDg1MDEzWjA1MTMwMQYDVQQDHioARABFAFMASwBUAE8AUAAtAEkAMABDAEcARgA4ADUAXABwAGUAZAByAG8wgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAOV0jSu3yB28YACpT9c+OIfZAv6mOAZp0R0zZ0wYFgEjqbq7d3uHECOt8MLqQ37wDYzmw7dONi9WGZCpUeuwsSQUH2nuDm+vb28KwGkcfgwQsbl3ExLTAkPXW9bzKRt861b5ahrdKcmDr2FO0Tv0AtMSj9A5dJ2gJBT2/RZiyqXtAgMBAAEwDQYJKoZIhvcNAQELBQADgYEAO+BPEcoQ/2zVoath3JybWawM7UUVBgwAWGNZy63KWS1IfxZhRtb1RV4PZFbYXR3s5flBQ+Docjq14d3GBbZsM7JZcFDN015F+JMQSocLsIxeGvY/NlwpW1zIvQ/AdiEfnj7y0V2H4LntA9QtIoplg43XHbZ5MDXzGiHXlzHtC9E=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

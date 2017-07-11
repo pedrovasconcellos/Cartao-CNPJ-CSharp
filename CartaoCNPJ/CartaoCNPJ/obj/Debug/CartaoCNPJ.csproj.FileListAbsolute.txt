@@ -1,0 +1,13 @@
+c:\users\pedro\documents\visual studio 2015\Projects\CartaoCNPJ\CartaoCNPJ\bin\Debug\CartaoCNPJ.exe.config
+c:\users\pedro\documents\visual studio 2015\Projects\CartaoCNPJ\CartaoCNPJ\bin\Debug\CartaoCNPJ.exe
+c:\users\pedro\documents\visual studio 2015\Projects\CartaoCNPJ\CartaoCNPJ\bin\Debug\CartaoCNPJ.pdb
+c:\users\pedro\documents\visual studio 2015\Projects\CartaoCNPJ\CartaoCNPJ\obj\Debug\CartaoCNPJ.Properties.Resources.resources
+c:\users\pedro\documents\visual studio 2015\Projects\CartaoCNPJ\CartaoCNPJ\obj\Debug\CartaoCNPJ.csproj.GenerateResource.Cache
+c:\users\pedro\documents\visual studio 2015\Projects\CartaoCNPJ\CartaoCNPJ\obj\Debug\CartaoCNPJ.exe
+c:\users\pedro\documents\visual studio 2015\Projects\CartaoCNPJ\CartaoCNPJ\obj\Debug\CartaoCNPJ.pdb
+c:\users\pedro\documents\visual studio 2015\Projects\CartaoCNPJ\CartaoCNPJ\obj\Debug\CartaoCNPJ.U_CARTAOCNPJ.resources
+C:\Users\pedro\Documents\Visual Studio 2015\Projects\CartaoCNPJ\CartaoCNPJ\obj\Debug\CartaoCNPJ.csprojResolveAssemblyReference.cache
+C:\Users\pedro\Documents\Visual Studio 2015\Projects\CartaoCNPJ\CartaoCNPJ\obj\Debug\CartaoCNPJ.exe.manifest
+C:\Users\pedro\Documents\Visual Studio 2015\Projects\CartaoCNPJ\CartaoCNPJ\bin\Debug\CartaoCNPJ.exe.manifest
+C:\Users\pedro\Documents\Visual Studio 2015\Projects\CartaoCNPJ\CartaoCNPJ\bin\Debug\CartaoCNPJ.application
+C:\Users\pedro\Documents\Visual Studio 2015\Projects\CartaoCNPJ\CartaoCNPJ\obj\Debug\CartaoCNPJ.application
